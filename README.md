@@ -1,6 +1,6 @@
 # 羽毛球 AI 训练 App · 开发实战手册(Playbook)
 
-> 这是一款 AI 羽毛球训练 iOS App(SwiftUI + watchOS + FastAPI)——的**开发路线图与避坑手册**。
+> 一款羽毛球 AI 训练 iOS App(SwiftUI + watchOS + FastAPI)从基础版走到完整版的**开发路线图与避坑手册**,整理自真实项目实战。
 > 全部关键决策、任务拆解和踩过的坑,供开发者与 AI 编程工具在开发同类产品时参考,少走弯路。
 
 ## 产品形态
